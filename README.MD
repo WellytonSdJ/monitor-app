@@ -2,6 +2,8 @@
 
 Aplicação Node.js para monitorar tickets de um sistema via API. Possui um temporizador programável, que de tempos em tempos verifica se surgiram alterações e notifica no desktop.
 
+![application example](/assets/example.gif)
+
 ### Requisitos
 Node.js 16+ instalado
 
