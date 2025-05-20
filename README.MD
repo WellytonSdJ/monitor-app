@@ -1,6 +1,7 @@
 # Monitor de Tickets com Notificação
 
-Aplicação Node.js para monitorar tickets de um sistema via API. Possui um temporizador programável, que de tempos em tempos verifica se surgiram alterações e notifica no desktop.
+A idéia aqui é criar um monitoramento controlável para, por exemplo, monitorar uma empresa de passagens aéreas que de tempos em tempos dispara uma promoção relâmpago em seus vôos, ou então uma loja de tênis que faça o mesmo. Assim, quando acontecer, o computador exibirá uma notificação quando a condição for atendida.
+Para isso criei uma aplicação em Node.js que faz essas checagens de alterações de um sistema via API. Ele possui um temporizador programável, que de tempos em tempos verifica se surgiram alterações e notifica no desktop.
 
 ![application example](/assets/example.gif)
 
