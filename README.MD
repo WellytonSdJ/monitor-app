@@ -5,14 +5,6 @@ Para isso criei uma aplicação em Node.js que faz essas checagens de alteraçõ
 
 ![application example](/assets/example.gif)
 
-### Requisitos
-Node.js 16+ instalado
-
-Permissão para rodar notificações no sistema operacional
-
-API acessível com cookies válidos e referer correto
-
-
 ---
 
 ## Requisitos
